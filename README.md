@@ -1,6 +1,12 @@
-# koronowirus-w-polsce-najwazniejsze-linki
-Koronowirus w Polsce - Najwazniejsze Linki
+## Spis Treści
+[Sytuacja Epidemiologiczna - Informacje Rzadowe](#rzadowe)
 
+[Sytuacja Epidemiologiczna - Agregatory stworzone przez wolontariuszy](#prywatne)
+
+[Linki do wikipedii](#wiki)
+
+
+<div id='rzadowe'/>
 ## Sytuacja Epidemiologiczna - Informacje Rzadowe
 
 [Twitter MZ](https://twitter.com/MZ_GOV_PL)
@@ -15,29 +21,27 @@ Koronowirus w Polsce - Najwazniejsze Linki
 
 [GOV Zarazenia](https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2)
 
+<div id='prywatne'/>
 ## Sytuacja Epidemiologiczna - Agregatory stworzone przez wolontariuszy
 
-[Arkusz](https://docs.google.com/spreadsheets/d/1ierEhD6gcq51HAm433knjnVwey4ZE5DCnu1bW7PRG3E/htmlview?usp=sharing&sle=true)
+[Arkusz GoogleDocs z sytuacja Epidemiologiczną PL](https://docs.google.com/spreadsheets/d/1ierEhD6gcq51HAm433knjnVwey4ZE5DCnu1bW7PRG3E/htmlview?usp=sharing&sle=true)
 
-[Link ](https://docs.google.com/spreadsheets/d/1Z7VQ5xlf3BaTx_LBBblsW4hLoGYWnZyog3jqsS9Dbgc/htmlview)
+[COVID2019.app - LIVE stats & graphs](https://docs.google.com/spreadsheets/d/1Z7VQ5xlf3BaTx_LBBblsW4hLoGYWnZyog3jqsS9Dbgc/htmlview)
 
 [gdziewirus.pl](https://www.gdziewirus.pl/)
 
 [kwirus.pl](https://kwirus.pl/)
 
-
-
 [koronawirusunas.pl](https://koronawirusunas.pl/)
 
-[Link ](https://gisexpert.maps.arcgis.com/apps/webappviewer/index.html?id=6f57704acac84a648f3d87ce6219b0a7)
+[Mapa](https://gisexpert.maps.arcgis.com/apps/webappviewer/index.html?id=6f57704acac84a648f3d87ce6219b0a7)
 
-[Link ](https://public.tableau.com/profile/mateusz.karmalski)
-
-
+[Mateusz Karmalski](https://public.tableau.com/profile/mateusz.karmalski)
 
 [Wykop - tag koronawirus](https://www.wykop.pl/tag/znaleziska/koronawirus/rss/)
 
-## Linki do wikipedii
+<div id='wiki'/>
+## Linki do wikipedi
 [Koronawirusy](https://pl.wikipedia.org/wiki/Kategoria:Koronawirusy)
 
 [Koronawirusy ](https://pl.wikipedia.org/wiki/Koronawirusy)
